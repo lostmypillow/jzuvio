@@ -13,13 +13,14 @@
     "@mdi/font": "^7.4.47",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "nuxt": "^3.11.2",
+    "primevue": "^3.52.0",
     "vue": "^3.4.27",
     "vue-router": "^4.3.2"
   },
   "packageManager": "pnpm@8.15.6+sha1.8105075ad0aa306138be128c017e9c41e28ecffa",
   "devDependencies": {
     "daisyui": "^4.11.1",
-    "vite-plugin-vuetify": "^2.0.3",
-    "vuetify": "^3.6.7"
+    "nuxt-primevue": "^0.3.1",
+    "vite-plugin-vuetify": "^2.0.3"
   }
 }
